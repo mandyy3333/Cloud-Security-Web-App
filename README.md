@@ -35,7 +35,7 @@ The Challenge supports AWS and GCP cloud providers:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/JQCVSC/Secure-Pass-Sentinel.git
+git clone https://github.com/mandyy3333/Cloud-Security-Web-App.git
 cd Secure-Pass-Sentinel
 ```
 ### Step 2: Set Up Locally
